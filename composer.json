@@ -1,0 +1,13 @@
+{
+    "name": "root/php-coding-dojo",
+    "authors": [
+        {
+            "name": "Jiri Pavlicek",
+            "email": "jiri@pavlicek.cz"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {"": "src/"}
+    }
+}
